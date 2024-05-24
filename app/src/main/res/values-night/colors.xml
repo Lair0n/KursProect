@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="backgroundColor">#303030</color>
+    <color name="btnBackground">#303030</color>
+    <color name="blockColor">#2444B4</color>
+    <color name="numTextColor">#FFFFFF</color>
+</resources>
